@@ -119,7 +119,8 @@ The system shows:
 
 ## 📌 Note
 
-The dataset is not uploaded due to size limitations, but the project structure supports training on any similar dataset.
+The dataset used includes images of people with and without masks,
+organized into respective folders for training and validation.
 
 ---
 
